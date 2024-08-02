@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    padding: 2px;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    padding: 1px;
+    justify-content: space-around;
+    margin: auto;
+    align-items: center ;
+    font-size: large;
+}
+input{
+    width: 50px;  
+}
+#display{
+    font-size: 60px;
+}
